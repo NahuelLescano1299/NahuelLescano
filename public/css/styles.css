@@ -1,0 +1,39 @@
+header{
+    background-color: #EAC926;;
+}
+
+.oferta{
+    font-size: 24px;
+}
+
+.precio{
+    font-size: 18px;
+}
+
+.descuento {
+    font-size: 16px;
+}
+
+.descripcion{
+    font-size: 16px;
+}
+
+.texto {
+    font-size: 12px;
+}
+
+.texto2{
+    text-align: center;
+}
+
+.burger-menu{
+    background: #1259c3;
+    color: white;
+    max-width: 20px;
+    padding: 5px;
+    text-align: center;
+    width: 50px;
+    margin: auto;
+}
+
+
